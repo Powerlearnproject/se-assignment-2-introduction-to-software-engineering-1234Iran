@@ -25,6 +25,7 @@ Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? Submission Guidelines: Your answers should be well-structured, concise, and to the point. Provide real-world examples or case studies wherever possible. Cite any references or sources you use in your answers. Submit your completed assignment by [due date].
 ### Define Software Engineering
 
 **Software Engineering** is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It encompasses not just the technical aspects of building software but also the management and documentation processes to ensure high-quality products.
